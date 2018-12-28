@@ -1,6 +1,6 @@
 ### Fun with [Phaser](https://phaser.io/)
 
-A place to store the projects from `phaser` tutorials.
+A place to store projects from `phaser` tutorials.
 
 ### Installation
 1. Clone or download this repository.
